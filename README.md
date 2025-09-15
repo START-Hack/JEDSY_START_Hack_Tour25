@@ -1,5 +1,5 @@
 # START_Hack_Tour_3
-# START_Hack_Tour_2
+
 # <p align="center"> Title </p>
 
 ## <p align="center"> Who are we? </p>
